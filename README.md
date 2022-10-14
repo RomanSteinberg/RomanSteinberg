@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman Steinberg (@RomanSteinberg)
 - 👀 I’m interested in Data Science and ML/DL particulary
-- 🌱 I’m currently learning Knowledge Graphs and their applications
+- 🌱 I’m currently learning modern types approach in Python 
 
 <!---
 - 💞️ I’m looking to collaborate on ...
